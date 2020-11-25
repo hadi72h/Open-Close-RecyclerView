@@ -9,6 +9,7 @@ Anytime you find yourself writing code of the form “if the object is of type T
 If you look at those adapters implementation that have switch case with instace cheking in onCreate and onBind Viewholder, there is a lot of slapping to be done.
 
 you can find 3 approach that implemented recyclerView on three different branches by : 
+
 ehsan : https://github.com/abbasiehsan1991
 
 hadi : 
