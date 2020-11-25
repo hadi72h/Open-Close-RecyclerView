@@ -12,7 +12,7 @@ you can find 3 approach that implemented recyclerView on three different branche
 
 ehsan : https://github.com/abbasiehsan1991
 
-hadi : 
+hadi : https://github.com/hadi72h
 
 hossein : https://github.com/cormen3
 
