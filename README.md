@@ -10,5 +10,8 @@ If you look at those adapters implementation that have switch case with instace 
 
 you can find 3 approach that implemented recyclerView on three different branches by : 
 ehsan : https://github.com/abbasiehsan1991
+
 hadi : 
+
 hossein : https://github.com/cormen3
+
